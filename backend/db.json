@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "novo posts",
+      "author": "sonia",
+      "id": 2
+    },
+    {
+      "title": "novo posts",
+      "author": "sonia",
+      "id": 3
+    },
+    {
+      "tetle": "novo posts",
+      "athor": "Adrian",
+      "id": 4
+    },
+    {
+      "tetle": "novo posts",
+      "athor": "Adriana",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
